@@ -78,7 +78,6 @@ Data cleaning and exploratory analysis were performed using **Jupyter Notebook**
 ---
 
 ## Dashboard Preview
-_Add screenshots of your Power BI dashboard here_
 ![Dashboard](Dashboard.png)
 ---
 
